@@ -3,9 +3,11 @@
 This is an improvement from [PCB_Smart_Tank V1](https://github.com/STANLEY-NJINDO/PCB_Smart_Tank-V1) with the inclusion of a GSM module and simcard holder, enabling remote monitoring and control via SMS or GPRS.
 The PCB_Smart_Tank V2 is an advanced, IoT-enabled tank monitoring system designed to optimize tank performance, reduce maintenance costs, and improve overall efficiency. This project combines cutting-edge electronics, sensors, and software to provide real-time monitoring and control of tank parameters. 
 
-![image](https://github.com/user-attachments/assets/bbcc61db-93e9-49a9-b91d-bb07f2244a65)
+![image](https://github.com/user-attachments/assets/ef688ab4-2a5e-41c6-8765-f3bcec1177ea)
 
-![image](https://github.com/user-attachments/assets/65ae6269-c3df-4a21-bebb-ee5cd7c551dc)
+
+![image](https://github.com/user-attachments/assets/96e921ae-869c-4d44-94de-204fd3901b2e)
+
 
 
 ## Key Features
